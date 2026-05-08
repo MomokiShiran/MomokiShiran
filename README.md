@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=45&lines=君の指先を舞ってる電光は、私の一生変わらない信仰であり、このレールガンだけが永遠に生きてる！)](https://git.io/typing-svg)
 
 <div align="center">
-  <img alt="Moe Counter!" src="https://count.getloli.com/@MomokiShiran?name=MomokiShiran&theme=miku&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+  <img alt="Moe Counter!" src="https://count.getloli.com/@MomokiShiran?name=MomokiShiran&theme=original-new&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 </div>
 <!--
 **MomokiShiran/MomokiShiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
